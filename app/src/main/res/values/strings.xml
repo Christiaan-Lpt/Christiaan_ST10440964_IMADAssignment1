@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMAD Assignment 1</string>
+    <string name="appHeader">The History App</string>
+    <string name="textHint">Enter your age</string>
+    <string name="buttonText">Clear</string>
+    <string name="buttonText2">Generate History</string>
+    <string name="Generate_hint">Historical figure will be generated here</string>
+    <string name="EnterAge">Enter Age :</string>
+</resources>
